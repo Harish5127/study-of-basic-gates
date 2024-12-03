@@ -86,6 +86,7 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+
 ![Screenshot 2024-12-03 230610](https://github.com/user-attachments/assets/1de2c37b-6f03-450a-84df-311596525515)
 
 **RTL**
